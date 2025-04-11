@@ -1,5 +1,5 @@
 # ex-redirect
-
+![Banner](banner.png)  
 **ex-redirect** is an automated tool that finds potential open redirect vulnerabilities by analyzing historical URLs from the [Wayback Machine](https://archive.org/web/). It supports subdomain grouping, live URL checking, and WordPress path filtering.
 
 ## 🚀 Features
